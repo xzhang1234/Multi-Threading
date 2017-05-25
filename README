@@ -3,6 +3,7 @@ This package is an excercise of multithreading programming. It is an assignment 
 Files contributed:
 caltrain.c
 
+-----------------------------
 Assignment requirement:
 This package contains cs140 ps0 starter code. The included Makefile
 will compile your solutions to the caltrain and reaction synchronisation
